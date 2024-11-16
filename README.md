@@ -1,8 +1,8 @@
 # Online Photo Resizer & Converter
 
-This is a simple application to resize and convert photos. Users can upload an image, specify dimensions, and choose an output format.
+This is a simple application for resizing and converting photos. Users can upload images, specify dimensions, and choose an output format.
 
-Visit our website: [Compresskaru](https://compresskaru.com/)
+Visit our website: [Compress Karu](https://compresskaru.com/)
 
 ## Features
 - Resize images by width and height.
@@ -20,6 +20,3 @@ Visit our website: [Compresskaru](https://compresskaru.com/)
 - Express.js
 - Multer
 - Sharp
-
-## License
-MIT
